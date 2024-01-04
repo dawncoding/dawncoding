@@ -1,4 +1,4 @@
-<img  width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sunjin&fontColor=c6c2ca&fontAlign=50&fontAlignY=35&color=0:000000,100:e0c3fd"  />
+<img  width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sunjin&fontColor=c6c2ca&fontAlign=50&fontAlignY=35&color=0:e0c3fd,100:e0c3fd"  />
 
 ### Hi there 👋
 
