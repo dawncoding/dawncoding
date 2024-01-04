@@ -1,4 +1,4 @@
-<img  width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sunjin&fontColor=bf81fd&fontAlign=50&fontAlignY=35&color=0:e0c3fd,100:e0c3fd"  />
+![header](https://capsule-render.vercel.app/api?type=waving&color=e0c3fd&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
 ### Hi there 👋
 
