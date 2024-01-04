@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=auto)
+<img  width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Suhwan&fontColor=DCE2F0&fontAlign=50&fontAlignY=35&color=0:000000,100:50586C"  />
+
 ### Hi there 👋
 
 <!--
