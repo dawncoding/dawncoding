@@ -6,13 +6,13 @@
 
 <ul  align="center">
 
-<li>Hi there👋 I'm <b>Sunjin Kim</b>.</li>
-<li><b>Contact</b> : <a  href="mailto:sunnuri99@gmail.com">
+Hi there👋 I'm <b>Sunjin Kim</b>.
+<b>Contact</b> : <a  href="mailto:sunnuri99@gmail.com">
 <img  alt="Gmail"  src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:sunnuri99@gmail.com"/>
 </a>
 <a  href="https://dawnwithsun.tistory.com/">
 <img  alt="Tech Blog"  src ="https://img.shields.io/badge/Tech Blog-2078C6.svg?&style=flat&logo=applemusic&logoColor=white&link=https://dawnwithsun.tistory.com/"/>
-</a></li>
+</a>
 
 </ul>
 
