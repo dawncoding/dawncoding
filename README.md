@@ -3,20 +3,8 @@
 ## Sunjin, Growing Frontend Developer🩵
 
 ## 💻 Skill
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=AWS_RDS&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=AWS_S3&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=AWS_EC2&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🗂️ Activities
