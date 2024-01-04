@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a6fbdc&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
+<div align="center">
+
 <h2>About Me🍀</h2>
 
 <ul  align="left">
