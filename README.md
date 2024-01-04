@@ -15,7 +15,7 @@
 - 뉴욕 유엔 본부 트레이닝 프로그램 [2019.08.09 ~ 2019.08.19]
 - 포스코 미래창조아카데미 웹 개발자 과정 [2023.07.04 ~ 2023.12.23]
 ### Language
-OPIc English IH [2023.01.14]
+OPIc English IH(Intermediate High) [2023.01.14]
 
 ## 🎓 Education
 Sookmyung Women's University, Double Major in Software Convergence and Statistics [2018.03 ~ 2023.08]
