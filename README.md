@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=radical)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e0c3fd&height=175&section=footer&reversal=true)
