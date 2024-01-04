@@ -4,7 +4,7 @@
 
 <h2>About Me🍀</h2>
 
-<ul  align="left">
+<ul  align="center">
 
 <li>Hi there👋 I'm <b>Sunjin Kim</b>.</li>
 <li><b>Contact</b> : <a  href="mailto:sunnuri99@gmail.com">
