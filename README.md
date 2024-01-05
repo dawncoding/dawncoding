@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=000000&random=false&width=435&lines=Sunjin%2C+Growing+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=000000&random=false&width=600&lines=Sunjin%2C+Growing+Frontend+Developer)](https://git.io/typing-svg)
 
 ## 💻 Skill
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
