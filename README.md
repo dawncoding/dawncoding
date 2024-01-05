@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
-## Sunjin, Growing Frontend Developer🩵
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
 
 ## 💻 Skill
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
