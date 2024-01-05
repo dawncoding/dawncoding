@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8cc4fc&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
 ## Sunjin, Growing Frontend Developer🩵
 
@@ -46,4 +46,4 @@ Sookmyung Women's University, Double Major in Software Convergence and Statistic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forcoding)](https://solved.ac/forcoding/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=8cc4fc&height=175&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true)
