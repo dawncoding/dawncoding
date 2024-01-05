@@ -27,6 +27,11 @@
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+## 🗂️ Projects
+- WebRTC 기반 실시간 1:1 화상 컨설팅 서비스, 커리업(Career-Up) [2023.11.10 ~ 2023.12.08]
+- 개발자를 위한 스터디 매칭 서비스, Do-IT [2023.08.31 ~ 2023.09.14]
+- 화장품 추천 서비스, Beauty LAB [2023.07.17 ~ 2023.07.23]
+- 비대면 성매개 질환 검사를 위한 데이터 관리 및 전송 플랫폼
 
 ## 🗂️ Activities
 ### Club
