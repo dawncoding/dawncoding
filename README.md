@@ -42,7 +42,7 @@ OPIc English IH(Intermediate High) [2023.01.14]
 ## 🎓 Education
 Sookmyung Women's University, Double Major in Software Convergence and Statistics [2018.03 ~ 2023.08]
 
-
+## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forcoding)](https://solved.ac/forcoding/)
 
