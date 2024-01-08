@@ -43,6 +43,10 @@
 - 포스코 미래창조아카데미 웹 개발자 과정 [2023.07.04 ~ 2023.12.23]
 ### Language
 OPIc English IH(Intermediate High) [2023.01.14]
+### Prize
+- 2023.12.08 포스코 미래창조아카데미 웹 개발자 과정 최종 팀 프로젝트 대회 2위
+- 2023.09.15 포스코 미래창조아카데미 웹 개발자 과정 2차 팀 프로젝트 대회 1위
+- 2023.07.27 포스코 미래창조아카데미 웹 개발자 과정 1차 팀 프로젝트 대회 1위
 
 ## 🎓 Education
 Sookmyung Women's University, Double Major in Software Convergence and Statistics [2018.03 ~ 2023.08]
