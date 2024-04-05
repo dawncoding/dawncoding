@@ -41,6 +41,8 @@
 ### Program
 - 뉴욕 유엔 본부 교육 프로그램(WFUNA's Advanced Training at the UN) [2019.08.09 ~ 2019.08.19]
 - 포스코 미래창조아카데미 웹 개발자 과정 [2023.07.04 ~ 2023.12.23]
+### Certificate
+SQLD [2024.04.05]
 ### Language
 OPIc English IH(Intermediate High) [2023.01.14]
 
