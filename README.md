@@ -48,6 +48,7 @@
 - 포스코 미래창조아카데미 웹 개발자 과정 [2023.07.04 ~ 2023.12.23]
 ### Certificate
 SQLD [2024.04.05]
+정보처리기사 [2024.06.18]
 ### Language
 OPIc English IH(Intermediate High) [2023.01.14]
 
