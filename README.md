@@ -28,28 +28,6 @@
 - 화장품 추천 서비스, Beauty LAB [2023.07.17 ~ 2023.07.23]
 - 비대면 성매개 질환 검사를 위한 데이터 관리 및 전송 플랫폼(산학 연구 졸업 프로젝트) [2020.09 ~ 2020.12]
 
-## 🗂️ Activities
-### Club
-- 소프트웨어학부 학회, APPS 부원 [2018.03 ~ 2018.06]
-- 서울 대학생 연합 외국어 교류 동아리, 플랫폼 부원 및 운영진 [2019.03 ~ 2019.12]
-- 전국 연합 개발 동아리, J2KB 부원 [2021.03 ~ 2021.06]
-### Program
-- 뉴욕 유엔 본부 교육 프로그램(WFUNA's Advanced Training at the UN) [2019.08.09 ~ 2019.08.19]
-- 포스코 미래창조아카데미 웹 개발자 과정 [2023.07.04 ~ 2023.12.23]
-### Certificate
-- SQLD [2024.04.05]
-- 정보처리기사 [2024.06.18]
-### Language
-OPIc English IH(Intermediate High) [2023.01.14]
-
-## 🥇 Prize
-- 2023.12.08 포스코 미래창조아카데미 웹 개발자 과정 최종 팀 프로젝트 대회 2위
-- 2023.09.15 포스코 미래창조아카데미 웹 개발자 과정 2차 팀 프로젝트 대회 1위
-- 2023.07.27 포스코 미래창조아카데미 웹 개발자 과정 1차 팀 프로젝트 대회 1위
-
-## 🎓 Education
-Sookmyung Women's University, Double Major in Software Convergence and Statistics [2018.03 ~ 2023.08]
-
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forcoding)](https://solved.ac/forcoding/)
