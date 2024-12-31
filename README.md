@@ -25,8 +25,6 @@
 ## 🗂️ Projects
 - WebRTC 기반 실시간 1:1 화상 컨설팅 서비스, 커리업(Career-Up) [2023.11.10 ~ 2023.12.08]
 - 개발자를 위한 스터디 매칭 서비스, Do-IT [2023.08.31 ~ 2023.09.14]
-- 화장품 추천 서비스, Beauty LAB [2023.07.17 ~ 2023.07.23]
-- 비대면 성매개 질환 검사를 위한 데이터 관리 및 전송 플랫폼(산학 연구 졸업 프로젝트) [2020.09 ~ 2020.12]
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=default)
