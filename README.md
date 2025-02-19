@@ -4,21 +4,18 @@
 
 ## 💻 Skill
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![HTML](https://readmebadge.vercel.app/badges/html.svg)
+![CSS](https://readmebadge.vercel.app/badges/css.svg)
+![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)
+![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)
+![React](https://readmebadge.vercel.app/badges/react.svg)
+![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)
+![materialui](https://readmebadge.vercel.app/badges/materialui.svg)
 ### Deployment
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![aws](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)
+![AWS](https://readmebadge.vercel.app/badges/aws.svg)
 ### Design, Convention
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Figma](https://readmebadge.vercel.app/badges/figma.svg)
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawncoding&show_icons=true&theme=default)
